@@ -1,0 +1,25 @@
+{
+  "name": "Apps · Hickory DR",
+  "short_name": "Apps",
+  "description": "Todas las herramientas de producción en un solo lugar.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0f1216",
+  "theme_color": "#171b21",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}

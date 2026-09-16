@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 30 906 385" role="img" aria-label="Hickory DR">
+  <title>Hickory DR</title>
+  <!-- "DR" grande al fondo y "HICKORY" encima, como el logo original. Las letras van
+       apretadas de ancho (scale en X) porque en el original son altas y angostas.
+       Los tonos van un punto mas vivos que el impreso, para que se lean sobre el
+       fondo oscuro del menu. -->
+  <g font-family="Arial, Helvetica, 'Segoe UI', sans-serif">
+    <text transform="translate(370,408) scale(0.72,1)"
+          font-weight="700" font-size="514" fill="#3B3BFF">DR</text>
+    <text transform="translate(8,285) scale(0.88,1)"
+          font-weight="500" font-size="161" fill="#2ECC57">HICKORY</text>
+  </g>
+</svg>
