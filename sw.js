@@ -2,7 +2,7 @@
    Generado por hacer_publico.py - no editar a mano. */
 'use strict';
 
-var CACHE = 'apps-561483e5';
+var CACHE = 'apps-3ba1b648';
 var ARCHIVOS = ["./", "index.html", "styles.css", "logo.svg", "manifest.webmanifest"];
 
 self.addEventListener('install', function (ev) {
